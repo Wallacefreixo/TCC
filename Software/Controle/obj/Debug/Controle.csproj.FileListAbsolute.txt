@@ -1,0 +1,220 @@
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\bin\Debug\Controle.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\bin\Debug\Controle.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\bin\Debug\Dados.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\bin\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\bin\Debug\Dados.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\bin\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\obj\Debug\Controle.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Controle\obj\Debug\Controle.pdb
+F:\Projeto Final\Controle\bin\Debug\Controle.dll
+F:\Projeto Final\Controle\bin\Debug\Controle.pdb
+F:\Projeto Final\Controle\bin\Debug\Dados.dll
+F:\Projeto Final\Controle\bin\Debug\Negocio.dll
+F:\Projeto Final\Controle\bin\Debug\Dados.pdb
+F:\Projeto Final\Controle\bin\Debug\Negocio.pdb
+F:\Projeto Final\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+F:\Projeto Final\Controle\obj\Debug\Controle.dll
+F:\Projeto Final\Controle\obj\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\obj\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Controle\obj\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\obj\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Controle\obj\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\obj\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Controle.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Dados.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\obj\Debug\Controle.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Controle.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Dados.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\bin\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Controle\obj\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto\Controle\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto\Controle\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto\Controle\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto\Controle\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto\Controle\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto\Controle\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto\Controle\obj\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto\Controle\obj\Debug\Controle.pdb
+C:\Users\Wallace\Desktop\Projeto\Controle\bin\Debug\Controle.dll
+C:\Users\Wallace\Desktop\Projeto\Controle\bin\Debug\Controle.pdb
+C:\Users\Wallace\Desktop\Projeto\Controle\bin\Debug\Dados.dll
+C:\Users\Wallace\Desktop\Projeto\Controle\bin\Debug\Negocio.dll
+C:\Users\Wallace\Desktop\Projeto\Controle\bin\Debug\Dados.pdb
+C:\Users\Wallace\Desktop\Projeto\Controle\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Desktop\Projeto\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Desktop\Projeto\Controle\obj\Debug\Controle.dll
+C:\Users\Wallace\Desktop\Projeto\Controle\obj\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Controle.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Dados.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Dados.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\obj\Debug\Controle.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\obj\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Controle\bin\Debug\Bancodedados.sdf
+F:\Projeto\Controle\bin\Debug\Controle.dll
+F:\Projeto\Controle\bin\Debug\Controle.pdb
+F:\Projeto\Controle\bin\Debug\Dados.dll
+F:\Projeto\Controle\bin\Debug\Negocio.dll
+F:\Projeto\Controle\bin\Debug\Dados.pdb
+F:\Projeto\Controle\bin\Debug\Negocio.pdb
+F:\Projeto\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+F:\Projeto\Controle\obj\Debug\Controle.dll
+F:\Projeto\Controle\obj\Debug\Controle.pdb
+J:\Projeto\Controle\bin\Debug\Controle.dll
+J:\Projeto\Controle\bin\Debug\Controle.pdb
+J:\Projeto\Controle\bin\Debug\Dados.dll
+J:\Projeto\Controle\bin\Debug\Negocio.dll
+J:\Projeto\Controle\bin\Debug\Dados.pdb
+J:\Projeto\Controle\bin\Debug\Negocio.pdb
+J:\Projeto\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+J:\Projeto\Controle\obj\Debug\Controle.dll
+J:\Projeto\Controle\obj\Debug\Controle.pdb
+F:\Projeto Teste implementação\Controle\bin\Debug\Controle.dll
+F:\Projeto Teste implementação\Controle\bin\Debug\Controle.pdb
+F:\Projeto Teste implementação\Controle\bin\Debug\Dados.dll
+F:\Projeto Teste implementação\Controle\bin\Debug\Negocio.dll
+F:\Projeto Teste implementação\Controle\bin\Debug\Dados.pdb
+F:\Projeto Teste implementação\Controle\bin\Debug\Negocio.pdb
+F:\Projeto Teste implementação\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+F:\Projeto Teste implementação\Controle\obj\Debug\Controle.dll
+F:\Projeto Teste implementação\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Bancodedados.sdf
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Controle\obj\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Bancodedados.sdf
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Controle\obj\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Bancodedados.sdf
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Controle.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Dados.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Dados.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\obj\Debug\Controle.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Controle\obj\Debug\Controle.pdb

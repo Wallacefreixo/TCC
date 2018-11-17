@@ -1,0 +1,645 @@
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\bin\Debug\Visao.exe.config
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\bin\Debug\Visao.exe
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\bin\Debug\Visao.pdb
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.FormPrincipal.resources
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.Properties.Resources.resources
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.exe
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.pdb
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\bin\Debug\af\Visao.resources.dll
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\Visao.FormPrincipal.af.resources
+c:\users\suporte\documents\visual studio 2012\Projects\Projeto Final\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Visao.exe.config
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.exe
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Visao.exe
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Visao.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.Login.resources
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Controle.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Dados.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Controle.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Visao\obj\Debug\af\Visao.resources.dll
+F:\Projeto Final\Visao\bin\Debug\Visao.exe.config
+F:\Projeto Final\Visao\obj\Debug\Visao.exe
+F:\Projeto Final\Visao\obj\Debug\Visao.pdb
+F:\Projeto Final\Visao\bin\Debug\Visao.exe
+F:\Projeto Final\Visao\bin\Debug\Visao.pdb
+F:\Projeto Final\Visao\bin\Debug\af\Visao.resources.dll
+F:\Projeto Final\Visao\bin\Debug\Controle.dll
+F:\Projeto Final\Visao\bin\Debug\Negocio.dll
+F:\Projeto Final\Visao\bin\Debug\Dados.dll
+F:\Projeto Final\Visao\bin\Debug\Controle.pdb
+F:\Projeto Final\Visao\bin\Debug\Negocio.pdb
+F:\Projeto Final\Visao\bin\Debug\Dados.pdb
+F:\Projeto Final\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+F:\Projeto Final\Visao\obj\Debug\Visao.DashPacientes.resources
+F:\Projeto Final\Visao\obj\Debug\Visao.Principal.resources
+F:\Projeto Final\Visao\obj\Debug\Visao.Login.resources
+F:\Projeto Final\Visao\obj\Debug\Visao.Properties.Resources.resources
+F:\Projeto Final\Visao\obj\Debug\Visao.Principal.af.resources
+F:\Projeto Final\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+F:\Projeto Final\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Visao.exe.config
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Login.resources
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Projeto Final Modificado\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.consulta.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Final Modificado\Visao\obj\Debug\Visao.Consulta2.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.exe.config
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Login.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashSuporte.resources
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.exe.config
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.exe
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.pdb
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.exe
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Visao.pdb
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\af\Visao.resources.dll
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Controle.dll
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Negocio.dll
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Dados.dll
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Controle.pdb
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Negocio.pdb
+E:\Projeto AV1 - Tópicos\Visao\bin\Debug\Dados.pdb
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashConsultas.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashHome.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashLaudos.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashMedicos.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashPacientes.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.DashSuporte.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Principal.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Login.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Properties.Resources.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.Principal.af.resources
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+E:\Projeto AV1 - Tópicos\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Visao.exe.config
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.DashSuporte.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.Login.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\af\Visao.resources.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\obj\Debug\Visao.exe
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.exe
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.exe
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\af\Visao.resources.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\af\Visao.resources.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.dll
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.pdb
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+F:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\af\Visao.resources.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe.config
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.exe
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.exe
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Visao.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\af\Visao.resources.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Controle.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\bin\Debug\Dados.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashConsultas.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashHome.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashLaudos.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashMedicos.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashPacientes.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.DashSuporte.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Login.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Properties.Resources.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.Principal.af.resources
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Visao.exe.config
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Visao.exe
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Visao.pdb
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Controle.dll
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Dados.dll
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Controle.pdb
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto\Visao\bin\Debug\Dados.pdb
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.Login.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Visao.exe.config
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.exe
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.pdb
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Bancodedados.sdf
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Visao.exe
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Visao.pdb
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Controle.dll
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Negocio.dll
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Dados.dll
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Controle.pdb
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Desktop\Projeto\Visao\bin\Debug\Dados.pdb
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DashConsultas.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DashHome.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DashLaudos.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.Login.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DadosCompletoPaciente.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashPaciente.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DashPaciente.resources
+C:\Users\Wallace\Desktop\Projeto\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Visao.exe.config
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.exe
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Bancodedados.sdf
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Visao.exe
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Visao.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Controle.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Dados.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\bin\Debug\Dados.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashMedicos.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashPaciente.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.Login.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashConsulta.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashLaudoCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashLaudo.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashMedicoCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto\Visao\obj\Debug\Visao.DashDadosCompletoPaciente.resources
+F:\Projeto\Visao\bin\Debug\Visao.exe.config
+F:\Projeto\Visao\obj\Debug\Visao.exe
+F:\Projeto\Visao\obj\Debug\Visao.pdb
+F:\Projeto\Visao\bin\Debug\Visao.exe
+F:\Projeto\Visao\bin\Debug\Visao.pdb
+F:\Projeto\Visao\bin\Debug\af\Visao.resources.dll
+F:\Projeto\Visao\bin\Debug\Controle.dll
+F:\Projeto\Visao\bin\Debug\Negocio.dll
+F:\Projeto\Visao\bin\Debug\Dados.dll
+F:\Projeto\Visao\bin\Debug\Controle.pdb
+F:\Projeto\Visao\bin\Debug\Negocio.pdb
+F:\Projeto\Visao\bin\Debug\Dados.pdb
+F:\Projeto\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+F:\Projeto\Visao\obj\Debug\Visao.DashDadosCompletoPaciente.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashConsulta.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashLaudoCadastro.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashLaudo.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashMedicoCadastro.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashMedicos.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashPaciente.resources
+F:\Projeto\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+F:\Projeto\Visao\obj\Debug\Visao.Principal.resources
+F:\Projeto\Visao\obj\Debug\Visao.Login.resources
+F:\Projeto\Visao\obj\Debug\Visao.Properties.Resources.resources
+F:\Projeto\Visao\obj\Debug\Visao.Principal.af.resources
+F:\Projeto\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+F:\Projeto\Visao\obj\Debug\af\Visao.resources.dll
+J:\Projeto\Visao\bin\Debug\Visao.exe.config
+J:\Projeto\Visao\obj\Debug\Visao.exe
+J:\Projeto\Visao\obj\Debug\Visao.pdb
+J:\Projeto\Visao\bin\Debug\Visao.exe
+J:\Projeto\Visao\bin\Debug\Visao.pdb
+J:\Projeto\Visao\bin\Debug\af\Visao.resources.dll
+J:\Projeto\Visao\bin\Debug\Controle.dll
+J:\Projeto\Visao\bin\Debug\Negocio.dll
+J:\Projeto\Visao\bin\Debug\Dados.dll
+J:\Projeto\Visao\bin\Debug\Controle.pdb
+J:\Projeto\Visao\bin\Debug\Negocio.pdb
+J:\Projeto\Visao\bin\Debug\Dados.pdb
+J:\Projeto\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+J:\Projeto\Visao\obj\Debug\Visao.DashDadosCompletoPaciente.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashConsulta.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashLaudoCadastro.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashLaudo.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashMedicoCadastro.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashMedicos.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashPaciente.resources
+J:\Projeto\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+J:\Projeto\Visao\obj\Debug\Visao.Principal.resources
+J:\Projeto\Visao\obj\Debug\Visao.Login.resources
+J:\Projeto\Visao\obj\Debug\Visao.Properties.Resources.resources
+J:\Projeto\Visao\obj\Debug\Visao.Principal.af.resources
+J:\Projeto\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+J:\Projeto\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashDadosCompletoPaciente.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashConsulta.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashLaudoCadastro.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashLaudo.resources
+C:\Users\suporte\Desktop\Projeto\Visao\obj\Debug\Visao.DashMedicoCadastro.resources
+F:\Projeto Teste implementação\Visao\bin\Debug\Visao.exe.config
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.exe
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.pdb
+F:\Projeto Teste implementação\Visao\bin\Debug\Visao.exe
+F:\Projeto Teste implementação\Visao\bin\Debug\Visao.pdb
+F:\Projeto Teste implementação\Visao\bin\Debug\af\Visao.resources.dll
+F:\Projeto Teste implementação\Visao\bin\Debug\Controle.dll
+F:\Projeto Teste implementação\Visao\bin\Debug\Dados.dll
+F:\Projeto Teste implementação\Visao\bin\Debug\Negocio.dll
+F:\Projeto Teste implementação\Visao\bin\Debug\Controle.pdb
+F:\Projeto Teste implementação\Visao\bin\Debug\Dados.pdb
+F:\Projeto Teste implementação\Visao\bin\Debug\Negocio.pdb
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashAgendamento.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashAgendamentoCadastro.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashReceituario.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashRelatorioLaudo.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashEspecialistaCadastro.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashEspecialista.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashPaciente.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.Principal.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.Login.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.Properties.Resources.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.UserControl1.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.Principal.af.resources
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+F:\Projeto Teste implementação\Visao\obj\Debug\af\Visao.resources.dll
+F:\Projeto Teste implementação\Visao\obj\Debug\Visao.Form1.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Bancodedados.sdf
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashAgendamento.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashAgendamentoCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashRelatórios.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashRelatorioLaudo.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashEspecialistaCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashEspecialista.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashPaciente.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Form1.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.UserControl1.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashAgendamento.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashAgendamentoCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashRelatórios.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashRelatorioLaudo.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashEspecialistaCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashEspecialista.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashPaciente.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.Form1.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.UserControl1.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Bancodedados.sdf
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Dados.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Dados.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste desenvolvido em aula\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashAgendamento.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashAgendamentoCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashConsultaCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashRelatórios.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashEspecialistaCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashEspecialista.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashPaciente.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.DashPacienteCadastro.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.FormularioMedicamento.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Principal.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Login.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.UserControl1.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.Principal.af.resources
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Visao.exe.config
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Bancodedados.sdf
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Visao.exe
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Visao.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Controle.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Dados.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Controle.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Dados.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\af\Visao.resources.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.exe
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Visao\obj\Debug\Visao.pdb
+D:\TCC\Projeto Teste implementação\Visao\bin\Debug\Visao.exe.config
+D:\TCC\Projeto Teste implementação\Visao\obj\Debug\Visao.exe
+D:\TCC\Projeto Teste implementação\Visao\obj\Debug\Visao.pdb

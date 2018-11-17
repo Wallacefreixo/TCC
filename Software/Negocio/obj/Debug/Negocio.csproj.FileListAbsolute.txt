@@ -1,0 +1,85 @@
+C:\Users\T-Gamer\Desktop\Projeto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Final\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Negocio\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Negocio\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto Final Modificado\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto Final Modificado\Negocio\obj\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto Final Modificado\Negocio\obj\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Negocio\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Negocio\obj\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Negocio\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Negocio\obj\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto AV1 - Tópicos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Negocio\bin\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Negocio\obj\Debug\Negocio.dll
+C:\Users\suporte\Desktop\Projeto AV1 - Tópicos2\Negocio\obj\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Negocio\bin\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Negocio\bin\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Negocio\obj\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV1 - Tópicos 2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\bin\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.dll
+C:\Users\T-Gamer\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\bin\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\bin\Debug\Negocio.pdb
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.dll
+E:\Projeto Wallace Azeredo - AV2 - Tópicos 2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Wallace\Desktop\Projeto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Wallace\Desktop\Projeto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Desktop\Projeto\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Desktop\Projeto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Wallace\Desktop\Projeto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto\Negocio\bin\Debug\Bancodedados.sdf
+F:\Projeto\Negocio\bin\Debug\Negocio.dll.config
+F:\Projeto\Negocio\bin\Debug\Negocio.dll
+F:\Projeto\Negocio\bin\Debug\Negocio.pdb
+F:\Projeto\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\Projeto\Negocio\obj\Debug\Negocio.dll
+F:\Projeto\Negocio\obj\Debug\Negocio.pdb
+F:\Projeto Teste implementação\Negocio\bin\Debug\Negocio.dll.config
+F:\Projeto Teste implementação\Negocio\bin\Debug\Negocio.dll
+F:\Projeto Teste implementação\Negocio\bin\Debug\Negocio.pdb
+F:\Projeto Teste implementação\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\Projeto Teste implementação\Negocio\obj\Debug\Negocio.dll
+F:\Projeto Teste implementação\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Negocio\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Negocio\obj\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\Projeto Teste implementação\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Negocio\bin\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Negocio\obj\Debug\Negocio.dll
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Wallace\Contacts\Desktop\Projeto Teste implementação\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
